@@ -1,9 +1,4 @@
-
-  # School Web Platform Design
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Class Finder 🎓
+Helping students find their classes faster and easier.
+🌐 ivana-school-project.vercel.app
+📸 instagram.com/classfinder.mk
