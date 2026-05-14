@@ -1,4 +1,4 @@
 Class Finder 🎓
-Helping students find their classes faster and easier.
+Frontend-only student app for finding classes faster and easier.
 🌐 ivana-school-project.vercel.app
 📸 instagram.com/classfinder.mk
